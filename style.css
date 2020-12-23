@@ -1,7 +1,9 @@
 * {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
+body{
+overflow-x: hidden;
+}
 
 #header{
     text-align: center;
